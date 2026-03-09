@@ -8,8 +8,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / C++ / C / Python / Java
 
-- 🔭 I’m currently working on C++ 
-- 🌱 I’m currently learning python 
+- 🔭 I’m currently working on C++ , Java
+- 🌱 I’m currently working on python 
 - 🤔 I’m looking for help with c  
 - 💬 Ask me about anything 
 
