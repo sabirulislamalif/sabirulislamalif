@@ -6,7 +6,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: HTML / C++ / C
+Skills: HTML / C++ / C / Python / Java
 
 - 🔭 I’m currently working on C++ 
 - 🌱 I’m currently learning python 
